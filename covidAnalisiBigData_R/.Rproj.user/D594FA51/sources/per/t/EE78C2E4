@@ -1,0 +1,28 @@
+{
+    "id": "EE78C2E4",
+    "path": "~/Desktop/covidAnalisiBigData_R/scriptAnalizzatore.R",
+    "project_path": "scriptAnalizzatore.R",
+    "type": "r_source",
+    "hash": "1362681667",
+    "contents": "",
+    "dirty": false,
+    "created": 1673300777462.0,
+    "source_on_save": true,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,31",
+        "scrollLine": "0",
+        "notebook_format": "html_document",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1673301520,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1673301520113,
+    "read_only": false,
+    "read_only_alternatives": []
+}
